@@ -1,0 +1,3 @@
+public void setAccessoriesItems(List<OrderItemBo> accessoriesItems) {
+        this.accessoriesItems = accessoriesItems;
+    }
